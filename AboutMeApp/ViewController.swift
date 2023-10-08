@@ -15,8 +15,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var forgotUserName: UIButton!
     @IBOutlet weak var forgotPassword: UIButton!
     
-    let validUserName = "admin"
-    let validPassword = "admin"
+    let validUserName = "admin1"
+    let validPassword = "admin1"
     
  
     override func viewDidLoad() {
